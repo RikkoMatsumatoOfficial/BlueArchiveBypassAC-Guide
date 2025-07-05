@@ -1,5 +1,5 @@
 # BlueArchiveBypassAC-Guide
-This Is Guide How to Bypass Blue Archive AntiCheat(Nexon Game Security)
+This Is Guide How to Bypass Blue Archive AntiCheat(Nexon Game Security):
 
 1. Disable BlackCat1.sys Driver(change Automatic Type to Disable) and Create Zero File of BlackCat64.sys(check Game Folder where BlackCat64.sys is located)
 2. Change Attribution File BlackCat64.sys into Read and Hide.
