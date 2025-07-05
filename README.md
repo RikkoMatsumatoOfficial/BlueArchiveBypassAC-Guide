@@ -1,0 +1,2 @@
+# BlueArchiveBypassAC-Guide
+BlueArchiveBypassAC-Guide by RikkoMatsumatoOfficial
