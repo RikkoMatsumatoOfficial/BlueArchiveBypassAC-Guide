@@ -9,6 +9,8 @@ This Is Guide How to Bypass Blue Archive AntiCheat(Nexon Game Security):
 > [!IMPORTANT]
 > Soon will be My Program to Automatic Bypass Nexon Game Security!!!
 
+[Join To My Discord Server](https://discord.gg/rikkomatsumato)
+
 ## Donations
 
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
